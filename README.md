@@ -1,7 +1,7 @@
 
 - 👀 I’m interested in learn programing
-- 🌱 I’m currently learning html css javascript
-- 💞️ I’m looking to collaborate on web pages industry
+- 🌱 I’m currently learning html css javascript and python
+- 💞️ spread the use of open source artificial intelligence
 
 
 <!---
